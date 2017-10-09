@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="710"
+   height="50"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="section.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="388.47449"
+     inkscape:cy="-12.151564"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="4"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-bottom="4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-115px"
+       originy="-655px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-115,-347.36218)">
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2995"
+       width="700"
+       height="40"
+       x="120"
+       y="100"
+       rx="7.5"
+       ry="7.5"
+       transform="translate(0,252.36218)" />
+    <rect
+       ry="7.5"
+       rx="7.5"
+       y="100"
+       x="280"
+       height="40"
+       width="540"
+       id="rect2997"
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(0,252.36218)" />
+    <rect
+       style="fill:#eeeeec;fill-opacity:1;stroke:#888a85;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2999"
+       width="380"
+       height="40"
+       x="440"
+       y="100"
+       rx="7.5"
+       ry="7.5"
+       transform="translate(0,252.36218)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       x="200"
+       y="368.87097"
+       id="text3001"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3003"
+         x="200"
+         y="368.87097"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#2e3436">Section magic</tspan><tspan
+         sodipodi:role="line"
+         x="200"
+         y="381.37097"
+         id="tspan3005"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#2e3436">(32bit unsigned BE)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3007"
+       y="368.87097"
+       x="360"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#2e3436"
+         y="368.87097"
+         x="360"
+         id="tspan3009"
+         sodipodi:role="line">Section length</tspan><tspan
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#2e3436"
+         y="381.37097"
+         x="360"
+         sodipodi:role="line"
+         id="tspan3019">(32bit unsigned BE)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       x="630.00342"
+       y="368.87097"
+       id="text3013"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3015"
+         x="630.00342"
+         y="368.87097"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#2e3436">Section data</tspan><tspan
+         sodipodi:role="line"
+         x="630.00342"
+         y="381.37097"
+         id="tspan3017"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#2e3436">(variable length)</tspan></text>
+  </g>
+</svg>
